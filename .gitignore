@@ -1,0 +1,14 @@
+# Ignore uploaded images
+uploads/
+
+# Ignore database
+database.db
+
+# Ignore trained model (optional, can be large)
+face_emotionModel.h5
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
